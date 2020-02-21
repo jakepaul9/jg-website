@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jakepaul9/jg-website.git/static/css/main.d1b05096.chunk.css",
+    "main.js": "/jakepaul9/jg-website.git/static/js/main.86d01bbe.chunk.js",
+    "main.js.map": "/jakepaul9/jg-website.git/static/js/main.86d01bbe.chunk.js.map",
+    "runtime-main.js": "/jakepaul9/jg-website.git/static/js/runtime-main.3173dd5b.js",
+    "runtime-main.js.map": "/jakepaul9/jg-website.git/static/js/runtime-main.3173dd5b.js.map",
+    "static/js/2.5eb25044.chunk.js": "/jakepaul9/jg-website.git/static/js/2.5eb25044.chunk.js",
+    "static/js/2.5eb25044.chunk.js.map": "/jakepaul9/jg-website.git/static/js/2.5eb25044.chunk.js.map",
+    "index.html": "/jakepaul9/jg-website.git/index.html",
+    "precache-manifest.722fd3fdf58a302658aa2c6f8517bd4b.js": "/jakepaul9/jg-website.git/precache-manifest.722fd3fdf58a302658aa2c6f8517bd4b.js",
+    "service-worker.js": "/jakepaul9/jg-website.git/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/jakepaul9/jg-website.git/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.5eb25044.chunk.js.LICENSE.txt": "/jakepaul9/jg-website.git/static/js/2.5eb25044.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/jakepaul9/jg-website.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3173dd5b.js",
+    "static/js/2.5eb25044.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.86d01bbe.chunk.js"
+  ]
+}
