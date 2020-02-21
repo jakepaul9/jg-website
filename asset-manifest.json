@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/jg-website/index.html/static/css/main.d1b05096.chunk.css",
-    "main.js": "/jg-website/index.html/static/js/main.01fb7c1e.chunk.js",
-    "main.js.map": "/jg-website/index.html/static/js/main.01fb7c1e.chunk.js.map",
-    "runtime-main.js": "/jg-website/index.html/static/js/runtime-main.abed1892.js",
-    "runtime-main.js.map": "/jg-website/index.html/static/js/runtime-main.abed1892.js.map",
-    "static/js/2.5eb25044.chunk.js": "/jg-website/index.html/static/js/2.5eb25044.chunk.js",
-    "static/js/2.5eb25044.chunk.js.map": "/jg-website/index.html/static/js/2.5eb25044.chunk.js.map",
-    "index.html": "/jg-website/index.html/index.html",
-    "precache-manifest.96783e8f95fb2c6265c95fed88236bf0.js": "/jg-website/index.html/precache-manifest.96783e8f95fb2c6265c95fed88236bf0.js",
-    "service-worker.js": "/jg-website/index.html/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/jg-website/index.html/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.5eb25044.chunk.js.LICENSE.txt": "/jg-website/index.html/static/js/2.5eb25044.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/jg-website/index.html/static/media/logo.5d5d9eef.svg"
+    "main.css": "/jg-website/static/css/main.d1b05096.chunk.css",
+    "main.js": "/jg-website/static/js/main.3e9245a6.chunk.js",
+    "main.js.map": "/jg-website/static/js/main.3e9245a6.chunk.js.map",
+    "runtime-main.js": "/jg-website/static/js/runtime-main.eebd8b11.js",
+    "runtime-main.js.map": "/jg-website/static/js/runtime-main.eebd8b11.js.map",
+    "static/js/2.5eb25044.chunk.js": "/jg-website/static/js/2.5eb25044.chunk.js",
+    "static/js/2.5eb25044.chunk.js.map": "/jg-website/static/js/2.5eb25044.chunk.js.map",
+    "index.html": "/jg-website/index.html",
+    "precache-manifest.9f8f059729ff69ad13dcce242ebcd778.js": "/jg-website/precache-manifest.9f8f059729ff69ad13dcce242ebcd778.js",
+    "service-worker.js": "/jg-website/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/jg-website/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.5eb25044.chunk.js.LICENSE.txt": "/jg-website/static/js/2.5eb25044.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/jg-website/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.abed1892.js",
+    "static/js/runtime-main.eebd8b11.js",
     "static/js/2.5eb25044.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.01fb7c1e.chunk.js"
+    "static/js/main.3e9245a6.chunk.js"
   ]
 }
