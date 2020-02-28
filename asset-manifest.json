@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.675096ef.chunk.css",
+    "main.css": "./static/css/main.ea6105d8.chunk.css",
     "main.js": "./static/js/main.fda60b6f.chunk.js",
     "main.js.map": "./static/js/main.fda60b6f.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.a175dce4.js",
@@ -8,9 +8,9 @@
     "static/js/2.893d1803.chunk.js": "./static/js/2.893d1803.chunk.js",
     "static/js/2.893d1803.chunk.js.map": "./static/js/2.893d1803.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.e6485801d7681d0cbbdf5c6c46eb7765.js": "./precache-manifest.e6485801d7681d0cbbdf5c6c46eb7765.js",
+    "precache-manifest.5e8f801e8d84e96fd09aa9fa70eecb69.js": "./precache-manifest.5e8f801e8d84e96fd09aa9fa70eecb69.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.675096ef.chunk.css.map": "./static/css/main.675096ef.chunk.css.map",
+    "static/css/main.ea6105d8.chunk.css.map": "./static/css/main.ea6105d8.chunk.css.map",
     "static/js/2.893d1803.chunk.js.LICENSE.txt": "./static/js/2.893d1803.chunk.js.LICENSE.txt",
     "static/media/Letter of Recommendation for Jacob Grether.png": "./static/media/Letter of Recommendation for Jacob Grether.4d790467.png",
     "static/media/avatar_img.jpg": "./static/media/avatar_img.3749ecb4.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.a175dce4.js",
     "static/js/2.893d1803.chunk.js",
-    "static/css/main.675096ef.chunk.css",
+    "static/css/main.ea6105d8.chunk.css",
     "static/js/main.fda60b6f.chunk.js"
   ]
 }
