@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.8f88e9c9.chunk.css",
-    "main.js": "./static/js/main.9b4e5949.chunk.js",
-    "main.js.map": "./static/js/main.9b4e5949.chunk.js.map",
+    "main.css": "./static/css/main.e6e066d9.chunk.css",
+    "main.js": "./static/js/main.c2a8bb94.chunk.js",
+    "main.js.map": "./static/js/main.c2a8bb94.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.a175dce4.js",
     "runtime-main.js.map": "./static/js/runtime-main.a175dce4.js.map",
     "static/js/2.c2fe634f.chunk.js": "./static/js/2.c2fe634f.chunk.js",
     "static/js/2.c2fe634f.chunk.js.map": "./static/js/2.c2fe634f.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.3415577b97f96520fa21f958a4a3a670.js": "./precache-manifest.3415577b97f96520fa21f958a4a3a670.js",
+    "precache-manifest.a2691bf35e9de82ba816983510ec9609.js": "./precache-manifest.a2691bf35e9de82ba816983510ec9609.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.8f88e9c9.chunk.css.map": "./static/css/main.8f88e9c9.chunk.css.map",
+    "static/css/main.e6e066d9.chunk.css.map": "./static/css/main.e6e066d9.chunk.css.map",
     "static/js/2.c2fe634f.chunk.js.LICENSE.txt": "./static/js/2.c2fe634f.chunk.js.LICENSE.txt",
     "static/media/Letter of Recommendation for Jacob Grether.png": "./static/media/Letter of Recommendation for Jacob Grether.4d790467.png",
     "static/media/avatar_img.jpg": "./static/media/avatar_img.c88250b0.jpg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.a175dce4.js",
     "static/js/2.c2fe634f.chunk.js",
-    "static/css/main.8f88e9c9.chunk.css",
-    "static/js/main.9b4e5949.chunk.js"
+    "static/css/main.e6e066d9.chunk.css",
+    "static/js/main.c2a8bb94.chunk.js"
   ]
 }
